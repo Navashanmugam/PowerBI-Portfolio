@@ -89,17 +89,21 @@ This project focuses on tracking and analyzing sales performance against targets
 
 **Overview:**
 
-The project involved automating and standardizing the tracking of foreign exchange (FX) rates from multiple sources. Previously, this process required manual effort from the finance team, leading to inconsistencies and delays.
+This was an end-to-end automated project designed to streamline the process of tracking and analyzing foreign exchange (FX) rates. The finance team previously relied on manual data collection from multiple sources, which was time-consuming and error-prone. To address this, I developed a fully automated solution that ensured real-time updates and seamless reporting.
 
 **Key Contributions:**
 
 * Built an integrated Power BI dashboard connected to multiple FX data sources.
 
-* Automated data refresh pipelines using Power Query and dax functions eliminating manual imports.
+* Automated data pipelines where FX rate files were directly placed in a SharePoint folder by the client.
 
-* Applied DAX calculations to normalize exchange rate data for accurate reporting.
+* Configured Power Query and DAX to clean, transform, and normalize FX data for accurate reporting.
 
-* Designed visualizations for daily, weekly, and monthly FX trends, improving financial monitoring.
+* Developed a data refresh template that automatically updates daily, weekly, and monthly FX rates without manual intervention.
+
+* Integrated a Python script to update the processed report back to SharePoint, ensuring easy access for stakeholders.
+
+* Designed interactive visualizations to monitor FX rate fluctuations across multiple timeframes.
 
 **Impact:**
 
