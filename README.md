@@ -95,7 +95,7 @@ The project involved automating and standardizing the tracking of foreign exchan
 
 * Built an integrated Power BI dashboard connected to multiple FX data sources.
 
-* Automated data refresh pipelines using Power Query and Power Automate, eliminating manual imports.
+* Automated data refresh pipelines using Power Query and dax functions eliminating manual imports.
 
 * Applied DAX calculations to normalize exchange rate data for accurate reporting.
 
@@ -111,7 +111,7 @@ The project involved automating and standardizing the tracking of foreign exchan
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-# *Project 5: Underwriting Insights Dashboard (UW Assist Application)*
+# *Project 5: Underwriting Insights Dashboard*
 
 **Overview:**
 
